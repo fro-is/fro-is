@@ -5,5 +5,4 @@ My name is Thiago Frois, I'm 19 years old and I live in Belo Horizonte, Brazil. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 HTML, CSS, JavaScript, Node.JS, Express, learning ReactJS.
-- 🖥 Photoshop | Sony Vegas
+- 💻 HTML, CSS, JavaScript, ReactJS, Node.JS, Express .
