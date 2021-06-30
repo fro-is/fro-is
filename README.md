@@ -6,3 +6,5 @@ My name is Thiago Frois, I'm 19 years old and I live in Belo Horizonte, Brazil. 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 HTML, CSS, JavaScript, ReactJS, Node.JS, Express .
+
+<h3> My personal project: <a href="https://github.com/tpfrois/gartichelper">Gartic Helper</a></h3>
