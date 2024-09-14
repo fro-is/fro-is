@@ -9,7 +9,7 @@ I currently live in Belo Horizonte, Brazil. I graduated from high school in Brit
 [`📫 thiago@fro.is`](mailto:thiago@fro.is)
 [`🧑‍💼 @thiagofrois`](https://www.linkedin.com/in/thiagofrois/)
 
-**💡 Building [CarPrices.com.br](https://github.com/Car-Prices)**
+**💡 Building [CarPrices.com.br](https://carprices.com.br/)**
 
 ### Tech Stack
 ![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
