@@ -27,7 +27,7 @@ I currently live in Belo Horizonte, Brazil. I graduated from high school in Brit
 
 ---
 ### 🌱 Some Projects
-- [car-prices](https://github.com/Car-Prices) - SaSS Platform that actively monitors and tracks the price history of car listings, new listings, and more.
+- [car-prices](https://github.com/Car-Prices) - SaaS Platform that actively monitors and tracks the price history of car listings, new listings, and more.
 - [fro-is/gartic-helper](https://github.com/fro-is/gartichelper) - A fun tool to help players succeed in the drawing game Gartic
 - [fro-is/jsgenius](https://github.com/fro-is/jsgenius) - A version of the Genius Game built with Vanilla JS and Sound FXs.
 
