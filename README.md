@@ -31,3 +31,4 @@ I currently live in Belo Horizonte, Brazil. I graduated from high school in Brit
 - [fro-is/gartic-helper](https://github.com/fro-is/gartichelper) - A fun tool to help players succeed in the drawing game Gartic
 - [fro-is/jsgenius](https://github.com/fro-is/jsgenius) - A version of the Genius Game built with Vanilla JS and Sound FXs.
 
+![](https://komarev.com/ghpvc/?username=fro-is&abbreviated=true&label=ty!)
