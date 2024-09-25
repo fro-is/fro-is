@@ -5,7 +5,7 @@ I'm a software engineer and web-scraping specialist with a lifelong passion and 
 
 I currently live in Belo Horizonte, Brazil. I graduated from high school in British Columbia, Canada, and hold a Bachelor's degree in Information Systems.
 
-[`🏠 fro.is`](https://fro.is/)
+[`🏠 fro.is`](https://www.fro.is/)
 [`📫 thiago@fro.is`](mailto:thiago@fro.is)
 [`🧑‍💼 @thiagofrois`](https://www.linkedin.com/in/thiagofrois/)
 
